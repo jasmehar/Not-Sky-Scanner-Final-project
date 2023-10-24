@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/test.dir/tests/testBC.cpp.o CMakeFiles/test.dir/tests/testBFS.cpp.o CMakeFiles/test.dir/tests/testDijkstra.cpp.o CMakeFiles/test.dir/tests/testGraph.cpp.o CMakeFiles/test.dir/tests/testParsing.cpp.o -o test  /usr/lib/libCatch2Main.a code/src/libsrc.a /usr/lib/libCatch2.a 

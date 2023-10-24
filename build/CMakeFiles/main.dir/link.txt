@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/main.dir/code/entry/main.cpp.o -o main  code/src/libsrc.a 
